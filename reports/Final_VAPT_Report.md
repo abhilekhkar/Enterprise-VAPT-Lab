@@ -9,7 +9,7 @@ Environment: Local Docker Lab
 
 Tester: Abhilekh Kar
 
-Date: June 2026
+Date: April 2026
 
 Executive Summary
 I conducted a Vulnerability Assessment and Penetration Test against the OWASP Juice Shop application to get a realistic picture of where it stands security-wise. Over the course of the engagement, I put the app through its paces — authentication flows, business logic, file uploads, REST APIs, and the usual suspects from the OWASP Top 10.
