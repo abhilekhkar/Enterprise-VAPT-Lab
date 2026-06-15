@@ -1,0 +1,3 @@
+api                 [31m (Status: 500)[0m [Size: 2990]
+apis                [31m (Status: 500)[0m [Size: 2992]
+assets              [36m (Status: 301)[0m [Size: 156][34m [--> /assets/][0m
